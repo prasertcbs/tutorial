@@ -1,11 +1,11 @@
-obs	gender	dob	salary	own_house	occupation	work_exp
-1	M	17-Oct-97	223700	TRUE	nurse	2.2
-2	NaN	16-Jan-01	121100	TRUE	dentist	6.7
-3	F	NaT	NaN	NaN	accountant	9
-4	F	4-Dec-95	79900	FALSE	engineer	1.7
-5	M	12-Apr-01	32800	FALSE	teacher	3.6
-6	F	NaT	NaN	TRUE	developer	1.8
-7	F	13-Dec-02	272500	FALSE	nurse	5.6
-8	NaN	24-Jul-99	41600	FALSE	lawyer	4.1
-9	M	20-Feb-03	141300	TRUE	teacher	3.3
-10	M	26-Sep-95	68000	TRUE	police	6.5
+obs	gender	dob	salary	own_house	occupation	work_exp	children
+1	M	17-Oct-97	223700	TRUE	nurse	2.2	0
+2	NaN	16-Jan-01	121100	TRUE	dentist	6.7	0
+3	F	NaT	NaN	NaN	accountant	9	1
+4	F	4-Dec-95	79900	FALSE	engineer	1.7	1
+5	M	12-Apr-01	32800	FALSE	teacher	3.6	1
+6	F	NaT	NaN	TRUE	developer	1.8	0
+7	F	13-Dec-02	272500	FALSE	nurse	5.6	0
+8	NaN	24-Jul-99	41600	FALSE	lawyer	4.1	2
+9	M	20-Feb-03	141300	TRUE	teacher	3.3	2
+10	M	26-Sep-95	68000	TRUE	police	6.5	2
