@@ -1,11 +1,11 @@
-obs	gender	dob	occupation	work_exp	salary	own_house	children
-1	M	31-Jul-89	nurse	2.2	223700	TRUE	1
-2		30-Oct-92	dentist	6.7	121100	TRUE	0
-3	F		accountant	9		FALSE	2
-4	F	17-Sep-87	engineer	1.7	79900	FALSE	2
-5	M	24-Jan-93	teacher	3.6	32800	FALSE	2
-6	F		developer	1.8		TRUE	1
-7	F	26-Sep-94	nurse	5.6	272500	FALSE	0
-8	M	7-May-91	lawyer	4.1	41600	FALSE	2
-9	M	4-Dec-94	teacher	3.3	141300	TRUE	0
-10	M	10-Jul-87	police	6.5	68000	TRUE	2
+gender	dob	occupation	work_exp	salary	own_house	children
+M	31-Jul-89	nurse	2.2	223700	TRUE	1
+	30-Oct-92	dentist	6.7	121100	TRUE	1
+F		accountant	9		FALSE	2
+F	17-Sep-87	engineer	1.7	79900	FALSE	0
+M	24-Jan-93	teacher	3.6	32800	FALSE	2
+F		developer	1.8		TRUE	1
+F	26-Sep-94	nurse	5.6	272500	FALSE	1
+M	7-May-91	lawyer	4.1	41600	FALSE	0
+M	4-Dec-94	teacher	3.3	141300	TRUE	0
+M	10-Jul-87	police	6.5	68000	TRUE	1
