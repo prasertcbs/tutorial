@@ -1,6 +1,7 @@
 manufacturer,model,displ,year,cyl,trans,drv,cty,hwy,fl,class
 toyota,4runner 4wd,2.7,1999,4,auto(l4),4,16,20,r,suv
 audi,a4 quattro,1.8,1999,4,manual(m5),4,18,26,p,compact
+audi,a4 quattro,1.8,2008,4,manual(m5),4,18,26,p,compact
 nissan,altima,2.4,1999,4,auto(l4),f,19,27,r,compact
 toyota,4runner 4wd,2.7,1999,4,auto(l4),4,16,20,r,suv
 nissan,altima,2.5,2008,4,manual(m6),f,23,32,r,midsize
